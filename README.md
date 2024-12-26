@@ -1,5 +1,5 @@
 Hi 👋, I'm gopi krishna</h1>
-<h3 align="center">I am a passinate MERN stack web developer currently from india</h3>
+<h3 align="center">I am a passinate MERN stack web developer from india</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopikrishna-20&label=Profile%20views&color=0e75b6&style=flat" alt="gopikrishna-20" /> </p>
 
