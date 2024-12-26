@@ -3,7 +3,7 @@ Hi 👋, I'm gopi krishna</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopikrishna-20&label=Profile%20views&color=0e75b6&style=flat" alt="gopikrishna-20" /> </p>
 
-- 🌱 I’m currently learning **mern stack**
+- 🌱 I’m currently learning **Full stack**
 
 - 💬 Ask me about **frontend development**
 
